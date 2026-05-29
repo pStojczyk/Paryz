@@ -15,6 +15,11 @@ Opisz problem lub potrzebę, którą ma rozwiązać nowa funkcja
 ## Proponowane rozwiązanie 
 Opisz, jak według Ciebie funkcjonalność powinna działać 
 
+## Priorytet
+- [ ] Niski
+- [ ] Średni
+- [ ] Wysoki
+
 ## Alternatywne rozwiązania 
 Opisz inne możliwe podejścia lub obejścia problemu 
 
