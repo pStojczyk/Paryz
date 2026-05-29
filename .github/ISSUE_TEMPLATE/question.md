@@ -1,3 +1,4 @@
+---
 name: Pytanie / problem 
 about: Zgłoś pytanie lub problem dotyczący działania strony 
 title: "[QUESTION] krótki opis" 
