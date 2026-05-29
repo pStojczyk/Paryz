@@ -1,3 +1,4 @@
+---
 name: Propozycja funkcjonalności 
 about: Zasugeruj nowe usprawnienie lub funkcję 
 title: "[FEATURE] krótki opis" 
