@@ -10,7 +10,7 @@ Każda nowa zmiana powinna być nowym branchu / nowej gałęzi.
 Nazwy gałęzi: 
 - 'fix: poprawiono bład..'
 - 'docs: uzupełniono README.md'
-- 
+  
 ## Commitowanie
 Używaj jasnych i zwięzłych nazw commitów w trybie rozkazującym , np **dodaj zmianę..** zamiast dodano zmianę.
 
