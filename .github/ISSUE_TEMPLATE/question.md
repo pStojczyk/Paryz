@@ -26,4 +26,5 @@ Opisz, co faktycznie się dzieje
 ## Załączniki 
 Dodaj zrzuty ekranu, logi lub inne materiały pomocnicze 
 
-## Dodatkowe informacje Wszystkie dodatkowe uwagi
+## Dodatkowe informacje 
+Wszystkie dodatkowe uwagi
